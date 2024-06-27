@@ -14,3 +14,10 @@ Especialista em QA(a) apaixonado(a) por [Tecnologia].
 ## Tecnologias e Ferramentas
 - Linguagens: [JavaScript, Python]
 - Ferramentas: [Git, Docker, Cypress, Postman, Appium, Banco de Dados.]
+
+## Repositórios em Destaque
+[![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio1)](https://github.com/seu-usuario/repositorio1)
+[![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio2)](https://github.com/seu-usuario/repositorio2)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
