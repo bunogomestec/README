@@ -9,7 +9,7 @@ Especialista em QA(a) apaixonado(a) por [Tecnologia].
 - 🔭 Atualmente estou trabalhando em [projeto/empresa].
 - 🌱 Atualmente estou aprendendo [Automacoes de testes/Javascript].
 - 💬 Pergunte-me sobre [Qualidade/QA].
-- 📫 Como me encontrar: [bruno.gomes.tec@gmail.com / [linkedin](https://www.linkedin.com/in/bruno-gomes-73445388/)].
+- 📫 Como me encontrar: [Email: bruno.gomes.tec@gmail.com | [linkedin](https://www.linkedin.com/in/bruno-gomes-73445388/)].
 
 ## Tecnologias e Ferramentas
 - Linguagens: [JavaScript, Python]
