@@ -6,7 +6,7 @@ Bruno Silva
 Especialista em QA(a) apaixonado(a) por [Tecnologia].
 
 ## Sobre Mim
-- 🔭 Atualmente estou trabalhando em [projeto | Beira-Rio].
+- 🔭 Atualmente estou trabalhando em [projetos | Tecnology for success | [Beira-Rio]].
 - 🌱 Atualmente estou aprendendo [Automacoes de testes | Javascript].
 - 💬 Pergunte-me sobre [Qualidade | QA].
 - 📫 Como me encontrar: [Email: bruno.gomes.tec@gmail.com | [linkedin](https://www.linkedin.com/in/bruno-gomes-73445388/)].
