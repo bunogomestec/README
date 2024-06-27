@@ -1,9 +1,9 @@
 # Bruno Silva
 Bruno Silva
 
-# Olá, eu sou [Bruno Gomes da Silva]!
+# Olá, eu sou [Bruno Gomes da Silva]
 
-Especialista em QA(a) apaixonado(a) por [Tecnologia/QA].
+Especialista em QA(a) apaixonado(a) por [Tecnologia].
 
 ## Sobre Mim
 - 🔭 Atualmente estou trabalhando em [projeto/empresa].
