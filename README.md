@@ -12,5 +12,5 @@ Especialista em QA(a) apaixonado(a) por [Tecnologia/QA].
 - 📫 Como me encontrar: [bruno.gomes.tec@gmail.com/[linkedin](https://www.linkedin.com/in/bruno-gomes-73445388/)].
 
 ## Tecnologias e Ferramentas
-- Linguagens: [JavaScript, Python, etc.]
-- Ferramentas: [Git, Docker, etc.]
+- Linguagens: [JavaScript, Python]
+- Ferramentas: [Git, Docker, Cypress, Postman, Appium.]
